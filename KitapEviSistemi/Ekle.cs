@@ -31,6 +31,7 @@ namespace KitapEviSistemi
             else 
             {
                 MessageBox.Show("Kitap Eklenemedi");
+
             }
         }
     }
